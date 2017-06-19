@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zomato Search</string>
+    <string name="search_title">Enter restaurant</string>
+    <string name="filter">Filter</string>
+    <string name="rating">Rating  </string>
+    <string name="cost">Price</string>
+    <string name="sort_by">SORT BY</string>
+    <string name="increasing">Low - High  </string>
+    <string name="decreasing">High - Low</string>
+    <string name="order_by">ORDER BY</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

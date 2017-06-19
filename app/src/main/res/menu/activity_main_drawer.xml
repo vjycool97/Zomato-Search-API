@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_filter"
+            android:icon="@drawable/ic_filter_list_black_24dp"
+            android:title="Filter result" />
+        <item
+            android:id="@+id/nav_favourite"
+            android:icon="@drawable/heart_off"
+            android:title="Favourite"
+            android:visible="false"/>
+    </group>
+
+</menu>

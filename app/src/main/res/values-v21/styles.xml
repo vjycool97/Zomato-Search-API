@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AutoCompleteTextViewStyle" parent="Widget.AppCompat.Light.AutoCompleteTextView">
+        <item name="android:popupBackground">@drawable/search_suggestions_bg</item>
+        <item name="android:popupElevation">0dp</item>
+    </style>
+</resources>
